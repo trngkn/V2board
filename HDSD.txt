@@ -1,0 +1,10 @@
+  Cách sử dụng:
+  Việt hóa trang admin
+- Upload file umi.js theo đường dẫn sau:
+/www/wwwroot/[Tên Domain]/public/assets/admin
+
+  Fix một số thông báo bằng tiếng khựa 
+- Upload file có tên vi-VN.json theo đường dẫn:
+/www/wwwroot/[Tên Domain]/resources/lang
+- Upload file có tên app.php theo đường dẫn:
+/www/wwwroot/[Tên Domain]/config
