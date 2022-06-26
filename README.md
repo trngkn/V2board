@@ -10,6 +10,7 @@
 - Upload file umi.js theo đường dẫn sau:
 
 `/www/wwwroot/Tên Domain/public/theme/v2board/assets/`
+
 ---------------------------------------------------------------------------------  
 ###  Việt hóa thông báo
 
