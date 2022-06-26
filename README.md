@@ -1,7 +1,7 @@
 # V2board version 1.6.0
-Cách sử dụng
+***Cách sử dụng***
 ---------------------------------------------------------------------------------  
-  Việt hóa trang khách hàng
+###  Việt hóa trang khách hàng
 ---------------------------------------------------------------------------------   
 - Upload file vi-VN.js theo đường dẫn sau:
 
@@ -11,7 +11,7 @@ Cách sử dụng
 
 `/www/wwwroot/Tên Domain/public/theme/v2board/assets/`
 
-  Việt hóa thông báo
+###  Việt hóa thông báo
 --------------------------------------------------------------------------------- 
 - Upload file có tên vi-VN.json theo đường dẫn:
 
