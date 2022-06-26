@@ -1,6 +1,6 @@
 # V2board version 1.6.0
-***Cách sử dụng***
----------------------------------------------------------------------------------  
+> **Cách sử dụng**  ([***tải xuống***](https://github.com/DauDau432/V2board/archive/refs/heads/main.zip))
+
 ###  Việt hóa trang khách hàng
 ---------------------------------------------------------------------------------   
 - Upload file vi-VN.js theo đường dẫn sau:
