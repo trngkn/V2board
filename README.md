@@ -21,6 +21,7 @@
 - Upload file có tên app.php theo đường dẫn:  ([***tải xuống***]())
 
 `/www/wwwroot/Tên Domain/config/`
+
 ---------------------------------------------------------------------------------  
 ### Việt hóa trang admin
 
