@@ -18,7 +18,7 @@
 
 `/www/wwwroot/Tên Domain/resources/lang/`
 
-- Upload file có tên app.php theo đường dẫn:  ([***tải xuống***]())
+- Upload file có tên app.php theo đường dẫn:  ([***tải xuống***](https://raw.githubusercontent.com/DauDau432/V2board/main/app.php))
 
 `/www/wwwroot/Tên Domain/config/`
 
