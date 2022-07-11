@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------  
 ###  Việt hóa trang khách hàng
  
-- Upload file vi-VN.js theo đường dẫn:  ([***tải xuống***]())
+- Upload file vi-VN.js theo đường dẫn:  ([***tải xuống***](https://raw.githubusercontent.com/DauDau432/V2board/main/vi-VN.js))
 
 `/www/wwwroot/Tên Domain/public/theme/v2board/assets/i18n/`
 
