@@ -14,7 +14,7 @@
 ---------------------------------------------------------------------------------  
 ###  Việt hóa thông báo
 
-- Upload file có tên vi-VN.json theo đường dẫn:  ([***tải xuống***]())
+- Upload file có tên vi-VN.json theo đường dẫn:  ([***tải xuống***](https://raw.githubusercontent.com/DauDau432/V2board/main/vi-VN.json))
 
 `/www/wwwroot/Tên Domain/resources/lang/`
 
