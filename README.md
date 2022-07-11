@@ -7,7 +7,7 @@
 
 `/www/wwwroot/Tên Domain/public/theme/v2board/assets/i18n/`
 
-- Upload file umi.js theo đường dẫn:  ([***tải xuống***]())
+- Upload file umi.js theo đường dẫn:  ([***tải xuống***](https://github.com/DauDau432/V2board/raw/main/client/umi.js))
 
 `/www/wwwroot/Tên Domain/public/theme/v2board/assets/`
 
