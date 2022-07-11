@@ -25,5 +25,6 @@
 ---------------------------------------------------------------------------------  
 ### Việt hóa trang admin
 
-- Upload file umi.js theo đường dẫn:  ([***tải xuống***]())
+- Upload file umi.js theo đường dẫn:  ([***tải xuống***](https://github.com/DauDau432/V2board/raw/main/admin/umi.js))
+
 `/www/wwwroot/Tên Doamin/public/assets/admin/`
