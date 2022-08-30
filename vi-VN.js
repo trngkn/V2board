@@ -8,7 +8,7 @@ window.settings.i18n['vi-VN'] = {
   '三年付': '3 Năm',
   '一次性': 'Không Giới Hạn Thời Gian',
   '重置流量包': 'Cập Nhật Dung Lượng',
-  '待支付': 'Đợi Thanh Toán',
+  '待支付': 'Chờ Thanh Toán',
   '开通中': 'Đã Thanh Toán',
   '已取消': 'Đã hủy đơn',
   '已完成': 'Thực Hiện',
